@@ -38,6 +38,6 @@ Os valores principais calculados para a base fornecida são: faturamento total d
 5. Para atualizar os dados, substitua ou acrescente registros na tabela **Base de Dados**, mantendo a ordem e o significado das colunas. As fórmulas consideram linhas até a 1000. Se a base passar desse limite, amplie os intervalos das fórmulas na aba **Análise** e nas referências do dashboard.
 6. O agrupamento mensal está configurado para 2024, período da base original. Para analisar outro ano, ajuste as datas das fórmulas mensais e os rótulos correspondentes.
 
-## Publicar no GitHub
+## Repositório
 
-Crie um repositório chamado `dio-dashboard-vendas-xbox` e envie para ele `README.md` e `dashboard_vendas_xbox.xlsx`. Na página do repositório, use **Add file → Upload files**, selecione os dois arquivos e confirme em **Commit changes**. O endereço do repositório será `https://github.com/SEU-USUARIO/dio-dashboard-vendas-xbox`; substitua `SEU-USUARIO` pelo seu nome de usuário do GitHub.
+Este projeto está publicado em [1giordani/dio-dashboard-vendas-xbox](https://github.com/1giordani/dio-dashboard-vendas-xbox). O repositório contém o dashboard em Excel e este README.
